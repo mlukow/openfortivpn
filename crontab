@@ -1,0 +1,2 @@
+0	9		*	*	1-5	launchctl start mlu.guru.VPN
+0	17	*	*	1-5	launchctl stop mlu.guru.VPN
